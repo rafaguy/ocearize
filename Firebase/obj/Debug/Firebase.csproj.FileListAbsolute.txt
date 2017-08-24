@@ -1,0 +1,7 @@
+C:\Users\franampy\documents\visual studio 2015\Projects\Firebase\Firebase\bin\Debug\Firebase.dll
+C:\Users\franampy\documents\visual studio 2015\Projects\Firebase\Firebase\bin\Debug\Firebase.pdb
+C:\Users\franampy\documents\visual studio 2015\Projects\Firebase\Firebase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\franampy\documents\visual studio 2015\Projects\Firebase\Firebase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\franampy\documents\visual studio 2015\Projects\Firebase\Firebase\obj\Debug\Firebase.csprojResolveAssemblyReference.cache
+C:\Users\franampy\documents\visual studio 2015\Projects\Firebase\Firebase\obj\Debug\Firebase.dll
+C:\Users\franampy\documents\visual studio 2015\Projects\Firebase\Firebase\obj\Debug\Firebase.pdb
